@@ -9,4 +9,4 @@ There is a file that is hosted by aX that is too large to include here. It has c
 ## Minimally Baffled Dipole Loudspeakers
 This folder contains files related to open baffle loudspeakers that have very small to no baffle area. 
 These generally have a dipole radiation characteristic over a very wide frequency band. 
-I published an article in audioXpress including theory and motivation behind this type of loudspeaker, including an example of how to build one.  
+I published an article in audioXpress describing the theory and motivation behind this type of loudspeaker, and an example of how to build one.  
